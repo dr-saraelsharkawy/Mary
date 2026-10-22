@@ -3,7 +3,7 @@
   Edit the name, signature, message, captions, and photo filenames below.
 */
 const birthdaySettings = {
-  friendName: "Alaa",
+  friendName: "Mary",
   yourName: "Sara",
   pageTitle: "A Little Birthday Magic ♡",
   memories: [
